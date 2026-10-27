@@ -3,4 +3,7 @@ main/build/*
 sdkconfig.json
 sdkconfig
 .cache/
+examples/*
+managed_components/*
+dependencies.lock
 
